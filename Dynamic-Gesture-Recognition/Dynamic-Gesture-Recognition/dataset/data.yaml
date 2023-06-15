@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../test/images
+
+nc: 20
+names: ['Thanks','Hello','IloveYou','Yes','No','Please','Ask','Help','Home','Wait','Victory','Thumbsup','Thumbsdown','Okay','Namaste','Callme','Salute','Dance','Looser','Danger']
